@@ -1,9 +1,7 @@
 <?php
 /**
  * Adds a new notification type using actions and filters.
- * Demo for how we should approach add-on notification types.
- *
- * Or even make this an add-on.
+ * Demo for how to approach add-on notification types.
  */
 class Alchemyst_Forms_Insert_Post_Notification {
     const NOTIFICATION_NAME = 'insert-post';
